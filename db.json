@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Zaid",
+      "studentClass": "final",
+      "gpa": "2.1",
+      "id": "27"
+    },
+    {
+      "name": "Uzma Zaid",
+      "studentClass": "final year",
+      "gpa": "3.7",
+      "id": "275NQt4ky0c"
+    },
+    {
+      "name": "Saleem",
+      "studentClass": "3rd year",
+      "gpa": "3.25",
+      "id": "kMswaC-_wzg"
+    },
+    {
+      "name": "John",
+      "studentClass": "3rd year",
+      "gpa": "3.3",
+      "id": "R-OOQTFh9og"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
